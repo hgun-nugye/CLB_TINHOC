@@ -1,0 +1,15 @@
+body{
+  text-align: center;
+}
+.b1{
+  background-color: black;
+  color: white;
+  padding: 5px 10px 5px 10px;
+  border-radius: 2px;
+}
+.bt1
+{
+  padding: 15px 30px ;
+  background-color: rgb(123, 158, 223);
+  border: none;
+}
