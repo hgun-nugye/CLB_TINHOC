@@ -1,0 +1,29 @@
+body{
+  background-color: black;
+}
+.text-white
+{
+  margin-top: -10px;
+  color: white;
+  font-weight: bold;
+  background-color: red;
+}
+.bg-red
+{
+  color: white;
+  background-color: red;
+  line-height: 3.5;
+}
+span
+{
+  color: yellow;
+  font-weight: bold;
+  background-color: red;
+  font-style: italic;
+}
+.pvang
+{
+  color: yellow;
+  font-weight: bold;
+  background-color: red;
+}
