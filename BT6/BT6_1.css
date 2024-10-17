@@ -1,0 +1,26 @@
+.khung
+{
+  background-color: rgb(239, 235, 235);
+  text-align: center;
+  line-height: 3;
+  padding: 30px 20px 40px 20px;
+}
+.email
+{
+  padding: 10px 5px;
+  border: none; 
+  border-radius: 7px;
+  margin-top: 20px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+.btn
+{
+  background-color: darkcyan;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  font-size: 10px;
+  border: none;
+  padding: 10px 10px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
